@@ -3,6 +3,7 @@
 [[toc]]
 
 ## Start Shizuku
+sjuegwgwgyeydhd olmadı
 
 Shizuku supports startup in the following three ways.
 
